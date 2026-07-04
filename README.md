@@ -14,6 +14,8 @@ I build verification-first tools: network diagnostics, lab automation, and produ
 
 **[CCNA Automation Lab](https://github.com/andynettlez-droid/ccna-automation-lab)** - Containerlab + FRRouting lab that verifies OSPF convergence from real device state with Python and pytest. The public snapshot keeps the lab honest: syntax checks pass, and live assertions skip unless the topology is deployed.
 
+**[CCNA Study Lab](https://github.com/andynettlez-droid/ccna-study-lab)** - Node.js lab-control tooling for CML-Free practice: manifest rendering, local registry state, read/grade safety gates, parser tests, and mutation guards for credentialed lab lifecycle commands.
+
 **[Network Automation Journey](https://github.com/andynettlez-droid/network-automation-journey)** - Containerlab-first path from deterministic automation to agentic NetOps. The project emphasizes emulator-backed ground truth, Ansible/Python workflows, and a written verification journal.
 
 **[NetGate](https://github.com/andynettlez-droid/netgate)** - FastAPI + React simulation of GitOps-style network compliance: pre-flight validation, role-based approvals, and audit-trail thinking for safer infrastructure changes.
