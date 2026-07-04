@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew Nettleton
 
-Field network technician at **Bell Canada** in Niagara, studying for my **CCNA** and building toward **network automation / NetDevOps engineering**.
+Field network technician at **Bell Technical Solutions** in Niagara, studying for my **CCNA** and building toward **network automation / NetDevOps engineering**.
 
 I build verification-first tools: network diagnostics, lab automation, and production-style web systems where the test evidence matters as much as the demo.
 
