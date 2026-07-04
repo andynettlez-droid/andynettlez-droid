@@ -8,11 +8,13 @@ I build verification-first tools: network diagnostics, lab automation, and produ
 
 **[Signal by ATSHacker](https://github.com/andynettlez-droid/ats-hacker/tree/main/web)** - Next.js career product that scores resume-to-job fit, shows keyword gaps, routes paid resume/cover-letter unlocks through Stripe, and exports PDF/DOCX documents. Verified July 4, 2026: production build passes, `npm audit --omit=dev` reports 0 vulnerabilities, and lint has 0 errors.
 
+**[WiFiCheckup](https://github.com/andynettlez-droid/wificheckup)** - Node.js network diagnostics product with browser speed tests, room-by-room Wi-Fi analysis, Network Doctor scanner source, Mission Control dashboards, commercial gating, and a 103-test verification suite. Public snapshot published July 4, 2026 with placeholder payment links and no production runtime data.
+
+**[CrewKeeper](https://github.com/andynettlez-droid/crewkeeper)** - AI operations platform for field-service contractors: missed-call recovery, owner dashboard, Twilio-style messaging flows, CASL-aware opt-outs, and isolated smoke/integration/security checks.
+
 **[Network Automation Journey](https://github.com/andynettlez-droid/network-automation-journey)** - Containerlab-first path from deterministic automation to agentic NetOps. The project emphasizes emulator-backed ground truth, Ansible/Python workflows, and a written verification journal.
 
 **[NetGate](https://github.com/andynettlez-droid/netgate)** - FastAPI + React simulation of GitOps-style network compliance: pre-flight validation, role-based approvals, and audit-trail thinking for safer infrastructure changes.
-
-**CrewKeeper** - AI operations platform for field-service contractors: missed-call recovery, owner dashboard, Twilio-style messaging flows, CASL-aware opt-outs, and isolated smoke/integration/security checks. Public repo publication is in progress.
 
 ### Currently
 
