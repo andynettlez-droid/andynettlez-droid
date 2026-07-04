@@ -12,6 +12,8 @@ I build verification-first tools: network diagnostics, lab automation, and produ
 
 **[CrewKeeper](https://github.com/andynettlez-droid/crewkeeper)** - AI operations platform for field-service contractors: missed-call recovery, owner dashboard, Twilio-style messaging flows, CASL-aware opt-outs, and isolated smoke/integration/security checks.
 
+**[CCNA Automation Lab](https://github.com/andynettlez-droid/ccna-automation-lab)** - Containerlab + FRRouting lab that verifies OSPF convergence from real device state with Python and pytest. The public snapshot keeps the lab honest: syntax checks pass, and live assertions skip unless the topology is deployed.
+
 **[Network Automation Journey](https://github.com/andynettlez-droid/network-automation-journey)** - Containerlab-first path from deterministic automation to agentic NetOps. The project emphasizes emulator-backed ground truth, Ansible/Python workflows, and a written verification journal.
 
 **[NetGate](https://github.com/andynettlez-droid/netgate)** - FastAPI + React simulation of GitOps-style network compliance: pre-flight validation, role-based approvals, and audit-trail thinking for safer infrastructure changes.
